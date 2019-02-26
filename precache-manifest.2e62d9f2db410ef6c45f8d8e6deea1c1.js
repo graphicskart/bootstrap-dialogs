@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/bootstrap-dialogs/static/css/main.dbbefb49.chunk.css"
   },
   {
-    "revision": "f88c5e0435a0ab63e7761ecb4ca1073f",
+    "revision": "6004c248fa04c00166efc90e8024e3eb",
     "url": "/bootstrap-dialogs/index.html"
   }
 ];
