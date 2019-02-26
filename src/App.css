@@ -1,0 +1,49 @@
+* {
+  border-radius: 0px!important;
+}
+.App {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.modal-content {
+  border: none;
+}
+
+.success .modal-header, .success .modal-body {
+  background: #28a745;
+  color: #fff;
+}
+
+.danger .modal-header, .danger .modal-body {
+  background: #dc3545;
+  color: #fff;
+}
+
+.warning .modal-header, .warning .modal-body {
+  background: #ffc107;
+  color: #fff;
+}
+
+.info .modal-header, .info .modal-body {
+  background: #17a2b8;
+  color: #fff;
+}
+
+.primary .modal-header, .primary .modal-body {
+  background: #007bff;
+  color: #fff;
+}
+
+.modal-body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.modal-header .close {
+  color: #fff;
+}
+
+.btn-warning {
+  color: #fff;
+}
